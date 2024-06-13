@@ -20,7 +20,7 @@ class Header extends React.Component {
           </div>
         )}
         <span>
-          <img src= "/logo.png" width ={80}/>
+        <img src= "/logo.png" width ={80}/>
           <h2>StayMaster</h2> 
         </span>
       </div>
