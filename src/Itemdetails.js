@@ -131,7 +131,7 @@ class Itemdetails extends React.Component {
               <h3>Cancellation policy</h3>
             </div>
             <h4 style={{ paddingLeft: "41px", width: "70%" }}>
-              Sorry but once your payment is made for a room,there's no refund;.
+              Payment made for a room is not refundable;.
             </h4>
             <br />
             <hr />

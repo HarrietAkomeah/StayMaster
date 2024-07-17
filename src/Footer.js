@@ -5,7 +5,7 @@ class Footer extends React.Component {
     return (
       <div className="footer">
         <h3>© 2024 Staymaster, Inc. All rights reserved. </h3>
-        <h5>Privacy · Terms · Sitemap</h5>
+        <h5>Privacy · Terms </h5>
       </div>
     );
   }

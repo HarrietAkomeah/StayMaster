@@ -37,7 +37,7 @@ function Nav() {
       <div className="nav">
         <div className="nav__cont"></div>
         <span className="nav__logo" onClick={onprev}>
-        <img src="/logo.png" width={80}/>
+
         </span>
       </div>
     </span>

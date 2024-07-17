@@ -18,12 +18,11 @@ class Result extends React.Component {
       <div>
         <Nav />
         <div className="result">
-          <h4>{this.state.resultcontent.length} stays</h4>
+          <h4>{this.state.resultcontent.length} Hostels</h4>
           <h2>Stays NearBy</h2>
           <button>Cancellation Flexibility</button>
           <button>Type Of Place</button>
           <button>Rooms & Beds</button>
-          <button>More Filters</button>
         </div>
         {this.state.resultcontent.map((item) => {
           return (
@@ -56,7 +55,7 @@ class Result extends React.Component {
                     }}
                   ></button>
                   <div className="resultcont__price">
-                    <span>{item.price}</span> / night
+                    <span>{item.price}</span> / academic year
                   </div>
                   <div className="resultcont__star">
                     ★
