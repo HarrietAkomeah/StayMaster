@@ -12,6 +12,7 @@ export const Resultcontent = [
     price: "(GHS 7K/year),to (GHS 5k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "WhatsApp - ",
   },
@@ -28,8 +29,9 @@ export const Resultcontent = [
     price: "ranges from(GHS 8K/year),to (GHS 5k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://maps.app.goo.gl/KindmmwHUsFMYBNt5",
     description:
-      ". Green Storey-Building Opposite Casa Mara.",
+      "Phone number - ",
   },
   {
     id: 2,
@@ -44,6 +46,7 @@ export const Resultcontent = [
     price: "ranges from (GHS 10K/year),to (GHS 6k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "cream and yellow color building opposite paradise regained.",
   },
@@ -60,6 +63,7 @@ export const Resultcontent = [
     price: "ranges from (GHS 5K/year),to (GHS 3k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "pink colored hostel Close To Frontline And Opposite Happy Family.",
   },
@@ -76,6 +80,7 @@ export const Resultcontent = [
     price: "ranges from (GHS 7K/year),to (GHS 5k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "Pink hostel.",
   },
@@ -92,6 +97,7 @@ export const Resultcontent = [
     price: "ranges from (GHS 6K/year),to (GHS 4k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       ".Wine story building",
   },
@@ -108,6 +114,7 @@ export const Resultcontent = [
     price: "ranges from GHS4000 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "White Hostel"
   },
@@ -124,6 +131,7 @@ export const Resultcontent = [
     price: "ranges from GHS5000 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "A Storey Building Painted with Blue.",
   },
@@ -140,6 +148,7 @@ export const Resultcontent = [
     price: "ranges from GHS4500 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "Painted cream,and close to Shalom Kibutz Hostel"
   },
@@ -156,6 +165,7 @@ export const Resultcontent = [
     price: "ranges from GHS5000 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "Dark Green and Cream Colour Close to Kotei main road.",
   },
@@ -172,6 +182,7 @@ export const Resultcontent = [
     price: "ranges from GHS4500 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
     description:
       "deep cream and orange building."
   },
@@ -188,6 +199,7 @@ export const Resultcontent = [
       price: "ranges from GHS5000 to GHS7000",
       roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
       description:
         "Yellow Building."
     },
@@ -204,6 +216,7 @@ export const Resultcontent = [
         price: "ranges from GHS5000 to GHS6500",
         roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
         description:
           "Ash Color with a green roofing."
       },
@@ -220,6 +233,7 @@ export const Resultcontent = [
           price: "ranges from GHS5000 to GHS7500",
           roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
           description:
             "Yellowish Colour."
         },
@@ -236,6 +250,7 @@ export const Resultcontent = [
             price: "ranges from GHS4500 to GHS6000",
             roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
             description:
               "Three-storey building with a shade of brown."
           },
@@ -252,6 +267,7 @@ export const Resultcontent = [
               price: "ranges from GHS5000 to GHS7000",
               roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
               description:
                 "A storey building painted in orange ."
             }
@@ -269,6 +285,7 @@ export const Resultcontent = [
               price: "ranges from GHS6000 to GHS7000",
               roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
               description:
                 "Orange and cream structure around FORD Hostel.",
             }      
@@ -285,6 +302,7 @@ export const Resultcontent = [
               price: "ranges from GHS6000 to GHS7000",
               roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
+    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
               description:
                 "Orange and cream structure around FORD Hostel.",
             }      
@@ -308,7 +326,7 @@ export const Content = [
     description: "Highly Recommended Hostel.",
   },
   {
-    id: 5,
+    id: 2,
     img: "./thersah.jpg",
     styles: "bigcontents__list",
     title: "St.Theresah",

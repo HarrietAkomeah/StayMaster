@@ -2,6 +2,7 @@ import React from "react";
 import Nav from "./Nav";
 import "./Itemdetails.css";
 import { Resultcontent } from "./Maincontents";
+
 class Itemdetails extends React.Component {
   constructor(props) {
     super(props);
@@ -35,7 +36,7 @@ class Itemdetails extends React.Component {
               <i>
                 {items.rating} <i style={{ color: "#717171" }}>·</i>{" "}
               </i>
-              <i>{items.location}</i>
+              <i><a href={items.maplocation} target="_blank" rel="noopener noreferrer">{items.location}</a></i>
               <i style={{ color: "black", textDecoration: "none" }}>
                 <i style={{ color: "#717171" }}>·</i> {items.price}
               </i>
@@ -264,7 +265,7 @@ class Itemdetails extends React.Component {
             <hr />
             <h2 style={{ padding: "25px 0" }}>Location</h2>
             <h3 style={{ textDecoration: "none" }}>
-              {items.location}
+            <a href={items.maplocation} target="_blank" rel="noopener noreferrer">{items.location}</a>
             </h3>
             
             <hr className="items__mobile" />
