@@ -10,8 +10,10 @@ export const Resultcontent = [
     amenities: "Wifi · Air condition · kitchen",
     smalldescription: "one in one ,two in one, three in one, four in one",
     price: "(GHS 7K/year),to (GHS 5k/year)",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
-      "White And Violet Colour, ",
+      "WhatsApp - ",
   },
   {
     id: 1,
@@ -24,6 +26,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · kitchen",
     smalldescription: "one in one ,two in one, three in one, four in one",
     price: "ranges from(GHS 8K/year),to (GHS 5k/year)",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       ". Green Storey-Building Opposite Casa Mara.",
   },
@@ -38,6 +42,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · kitchen",
     smalldescription: "one in one ,two in one, three in one, four in one",
     price: "ranges from (GHS 10K/year),to (GHS 6k/year)",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       "cream and yellow color building opposite paradise regained.",
   },
@@ -52,6 +58,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · iron",
     smalldescription: "two in one, three in one, four in one",
     price: "ranges from (GHS 5K/year),to (GHS 3k/year)",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       "pink colored hostel Close To Frontline And Opposite Happy Family.",
   },
@@ -66,6 +74,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · kitchen",
     smalldescription: "one in one ,two in one, three in one, four in one",
     price: "ranges from (GHS 7K/year),to (GHS 5k/year)",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       "Pink hostel.",
   },
@@ -80,6 +90,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · kitchen",
     smalldescription: "one in one ,two in one, three in one, four in one",
     price: "ranges from (GHS 6K/year),to (GHS 4k/year)",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       ".Wine story building",
   },
@@ -94,6 +106,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · kitchen",
     smalldescription: "one in one ,two in one, three in one, four in one",
     price: "ranges from GHS4000 to GHS7000",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       "White Hostel"
   },
@@ -108,6 +122,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · iron",
     smalldescription: " 4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
     price: "ranges from GHS5000 to GHS7000",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       "A Storey Building Painted with Blue.",
   },
@@ -122,6 +138,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · iron",
     smalldescription: "4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
     price: "ranges from GHS4500 to GHS7000",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       "Painted cream,and close to Shalom Kibutz Hostel"
   },
@@ -136,6 +154,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · iron",
     smalldescription: "4 in 1, 3 in 1, 2 in 1 , rooms available",
     price: "ranges from GHS5000 to GHS7000",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       "Dark Green and Cream Colour Close to Kotei main road.",
   },
@@ -150,6 +170,8 @@ export const Resultcontent = [
     amenities: "Wifi · Washer · iron",
     smalldescription: "two in one ,one in one rooms available with shared halls and kitchen",
     price: "ranges from GHS4500 to GHS7000",
+    roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
     description:
       "deep cream and orange building."
   },
@@ -164,6 +186,8 @@ export const Resultcontent = [
       amenities: "Wifi · Washer · iron",
       smalldescription: "4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
       price: "ranges from GHS5000 to GHS7000",
+      roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
       description:
         "Yellow Building."
     },
@@ -178,6 +202,8 @@ export const Resultcontent = [
         amenities: "Wifi · Washer · iron",
         smalldescription: "4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
         price: "ranges from GHS5000 to GHS6500",
+        roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
         description:
           "Ash Color with a green roofing."
       },
@@ -192,6 +218,8 @@ export const Resultcontent = [
           amenities: "Wifi · Washer · iron",
           smalldescription: "3 in 1, 2 in 1 ,1 in 1 rooms available",
           price: "ranges from GHS5000 to GHS7500",
+          roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
           description:
             "Yellowish Colour."
         },
@@ -206,6 +234,8 @@ export const Resultcontent = [
             amenities: "Wifi · Washer · iron",
             smalldescription: "4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
             price: "ranges from GHS4500 to GHS6000",
+            roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
             description:
               "Three-storey building with a shade of brown."
           },
@@ -220,6 +250,8 @@ export const Resultcontent = [
               amenities: "Wifi · Washer · iron",
               smalldescription: "4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
               price: "ranges from GHS5000 to GHS7000",
+              roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
               description:
                 "A storey building painted in orange ."
             }
@@ -235,6 +267,8 @@ export const Resultcontent = [
               amenities: "Wifi · Washer · iron",
               smalldescription: " 4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
               price: "ranges from GHS6000 to GHS7000",
+              roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
               description:
                 "Orange and cream structure around FORD Hostel.",
             }      
@@ -249,6 +283,8 @@ export const Resultcontent = [
               amenities: "Wifi · Washer · iron",
               smalldescription: " 4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
               price: "ranges from GHS6000 to GHS7000",
+              roomImages1: "./adombi.jpg",
+    roomImages2: "./adombi.jpg",
               description:
                 "Orange and cream structure around FORD Hostel.",
             }      

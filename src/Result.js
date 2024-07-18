@@ -19,10 +19,7 @@ class Result extends React.Component {
         <Nav />
         <div className="result">
           <h4>{this.state.resultcontent.length} Hostels</h4>
-          <h2>Stays NearBy</h2>
-          <button>Cancellation Flexibility</button>
-          <button>Type Of Place</button>
-          <button>Rooms & Beds</button>
+          <h2>Hostels Around</h2>
         </div>
         {this.state.resultcontent.map((item) => {
           return (

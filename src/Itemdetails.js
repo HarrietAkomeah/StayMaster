@@ -135,8 +135,14 @@ class Itemdetails extends React.Component {
             </h4>
             <br />
             <hr />
+            <h2>Contact Host</h2>
             <h3>{items.description}</h3>
             {/* <h3>Contact host</h3> */}
+            <br />
+            <hr />
+                <h2 style={{ paddingBottom: "1rem"}}>Images of the Room</h2>
+                <img src={`.${items.roomImages1}`} style={{  borderRadius: "2rem", marginBottom: "2rem"}}/>
+                <img src={`.${items.roomImages2}`} style={{ borderRadius: "2rem", marginBottom: "2rem"}}/>
             <br />
             <hr />
             <h2 style={{ padding: "25px 0" }}>Amenities</h2>
