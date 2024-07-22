@@ -179,6 +179,4 @@ hr ~ h3 ~ h3 {
             color: inherit; /* Keeps the same color after the link has been visited */
         }
 
-        a:hover {
-            text-decoration: underline; /* Optional: Adds underline on hover */
-        }
+        

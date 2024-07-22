@@ -29,7 +29,7 @@ export const Resultcontent = [
     price: "ranges from(GHS 8K/year),to (GHS 5k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://maps.app.goo.gl/KindmmwHUsFMYBNt5",
+    maplocation: "https://maps.app.goo.gl/yL9jdeb1PH7gdDTt8",
     description:
       "Phone number - ",
   },
@@ -46,7 +46,7 @@ export const Resultcontent = [
     price: "ranges from (GHS 10K/year),to (GHS 6k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/x5o9MaysJGPnFA2K8",
     description:
       "cream and yellow color building opposite paradise regained.",
   },
@@ -63,7 +63,7 @@ export const Resultcontent = [
     price: "ranges from (GHS 5K/year),to (GHS 3k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/41G5n5o5di4hCnH87",
     description:
       "pink colored hostel Close To Frontline And Opposite Happy Family.",
   },
@@ -80,7 +80,7 @@ export const Resultcontent = [
     price: "ranges from (GHS 7K/year),to (GHS 5k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/wrKU3Muwpmc4ZNfM8",
     description:
       "Pink hostel.",
   },
@@ -97,7 +97,7 @@ export const Resultcontent = [
     price: "ranges from (GHS 6K/year),to (GHS 4k/year)",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/jA1mkR5GVz35JsqL6",
     description:
       ".Wine story building",
   },
@@ -114,7 +114,7 @@ export const Resultcontent = [
     price: "ranges from GHS4000 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/rRcnjnmWpbYJ47Xp9",
     description:
       "White Hostel"
   },
@@ -131,7 +131,7 @@ export const Resultcontent = [
     price: "ranges from GHS5000 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/f8CXHzAD7EkMsWea6",
     description:
       "A Storey Building Painted with Blue.",
   },
@@ -148,8 +148,8 @@ export const Resultcontent = [
     price: "ranges from GHS4500 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
-    description:
+    maplocation: "https://maps.app.goo.gl/8Mp6Jb6Doa4zY5v5A",
+      description:
       "Painted cream,and close to Shalom Kibutz Hostel"
   },
   {
@@ -165,7 +165,7 @@ export const Resultcontent = [
     price: "ranges from GHS5000 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/RPmJzhccMH8bSyAJ9",
     description:
       "Dark Green and Cream Colour Close to Kotei main road.",
   },
@@ -182,7 +182,7 @@ export const Resultcontent = [
     price: "ranges from GHS4500 to GHS7000",
     roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/7WEnaEYHBf1JR1gQA",
     description:
       "deep cream and orange building."
   },
@@ -199,7 +199,7 @@ export const Resultcontent = [
       price: "ranges from GHS5000 to GHS7000",
       roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/nyRwzwU58Sqzc9oB9",
       description:
         "Yellow Building."
     },
@@ -216,7 +216,7 @@ export const Resultcontent = [
         price: "ranges from GHS5000 to GHS6500",
         roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/F8PKtCS6yPYuZS1L9",
         description:
           "Ash Color with a green roofing."
       },
@@ -233,7 +233,7 @@ export const Resultcontent = [
           price: "ranges from GHS5000 to GHS7500",
           roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/3mYv9zuk1YWH9j9q9",
           description:
             "Yellowish Colour."
         },
@@ -250,7 +250,7 @@ export const Resultcontent = [
             price: "ranges from GHS4500 to GHS6000",
             roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/3M65r8PnEMLGABqb9",
             description:
               "Three-storey building with a shade of brown."
           },
@@ -267,7 +267,7 @@ export const Resultcontent = [
               price: "ranges from GHS5000 to GHS7000",
               roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/JQhQNukeDhCyVhQ4A",
               description:
                 "A storey building painted in orange ."
             }
@@ -285,24 +285,22 @@ export const Resultcontent = [
               price: "ranges from GHS6000 to GHS7000",
               roomImages1: "./adombi.jpg",
     roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+    maplocation: "https://maps.app.goo.gl/mFjiBaAhkj4vEgXm7",
               description:
                 "Orange and cream structure around FORD Hostel.",
             }      
             ,{ 
               id: 17,
-              img: "./wagyingo.jpg",
-              rating: "3.8",
-              title: "Wagyingo Hostel ",
-              type: "Wagyingo Hostel",
+              img: "./fredmark.jpeg",
+              rating: "4.6",
+              title: "Fredmark Hostel ",
+              type: "Fredmark Hostel",
               location: "Ayeduase North",
-              host: "Emmanuel Amankwah",
+              host: "Fred Amakye",
               amenities: "Wifi · Washer · iron",
               smalldescription: " 4 in 1, 3 in 1, 2 in 1 ,1 in 1 rooms available",
-              price: "ranges from GHS6000 to GHS7000",
-              roomImages1: "./adombi.jpg",
-    roomImages2: "./adombi.jpg",
-    maplocation: "https://www.google.com/maps/place/Adom+Bi+Heights/@6.6720616,-1.5633791,17z/data=!3m1!4b1!4m6!3m5!1s0xfdb9462b55380a1:0xef71417c052d103b!8m2!3d6.6720616!4d-1.5608042!16s%2Fg%2F1hdy_p_dd?entry=ttu",
+              price: "ranges from GHS7000 to GHS9000",
+    maplocation: "https://maps.app.goo.gl/8nKkW7vMM6Srq7k97",
               description:
                 "Orange and cream structure around FORD Hostel.",
             }      
