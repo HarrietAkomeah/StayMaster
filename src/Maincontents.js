@@ -309,7 +309,7 @@ export const Resultcontent = [
 export const Content = [
   {
     id: 0,
-    img: "./Adombi.jpg",
+    img: "./adombi.jpg",
     styles: "bigcontents__list1",
     title: "Adombi Hostel",
     price: "GHS 7K/year", 
