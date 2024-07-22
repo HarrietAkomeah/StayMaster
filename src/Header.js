@@ -26,7 +26,7 @@ class Header extends React.Component {
   <div style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'right', width: '100%' }}>
   <span style={{ display: 'flex', alignItems: 'right' }}>
     <a href="https://stay-master-backend.vercel.app/" style={{ marginLeft: '1000px' }} class="book_btn">
-      <h2 class="button">Book Hostel</h2>
+      <h2 class="btn">Book Hostel</h2>
     </a>
   </span>
 </div>

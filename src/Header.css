@@ -56,13 +56,13 @@ span h2 {
 @media (max-width: 1064px) {
   .header__icon {
     left: 2%;
-    position: none;
+    /* position: none; */
   }
 }
 @media (max-width: 952px) {
-  .header__icon h3 {
+  /* .header__icon h3 {
     display: none;
-  }
+  } */
   .header button {
     width: 57vw;
     padding: 2%;
@@ -124,7 +124,7 @@ span h2 {
     left: -4%;
   }
 }
-.button {
+.btn {
   background-color: #fff;
   padding: 1rem;
   border-radius: 2rem;
